@@ -1,0 +1,21 @@
+{
+  "name": "gulp-alt-useref",
+  "description": "Alternative to gulp-useref.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softlife/gulp-alt-useref.git"
+  },
+  "homepage": "https://github.com/softlife/gulp-alt-useref#readme",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "q": "^1.4.1",
+    "through2": "^3.0.1",
+    "useref": "^1.4.1",
+    "vinyl-fs": "^3.0.2"
+  },
+  "devDependencies": {
+    "gulp-debug": "^3.2.0"
+  }
+}
