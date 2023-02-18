@@ -1,5 +1,5 @@
 {
-  "name": "gulp-alt-useref",
+  "name": "@slcpub/gulp-alt-useref",
   "description": "Alternative to gulp-useref.",
   "version": "1.0.0",
   "repository": {
@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "gulp-debug": "^3.2.0"
+  },
+  "publishConfig": {
+    "@slcpub:registry": "https://gitlab.com/api/v4/projects/34256364/packages/npm/"
   }
 }
