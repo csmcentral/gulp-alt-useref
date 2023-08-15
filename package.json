@@ -9,13 +9,13 @@
   "homepage": "https://github.com/csmcentral/gulp-alt-useref#readme",
   "main": "index.js",
   "dependencies": {
-    "gulp-concat": "^2.6.0",
-    "q": "^1.4.1",
-    "through2": "^3.0.1",
-    "useref": "^1.4.1",
-    "vinyl-fs": "^3.0.2"
+    "gulp-concat": "2.6.1",
+    "q": "1.5.1",
+    "through2": "3.0.2",
+    "useref": "1.4.4",
+    "vinyl-fs": "3.0.3"
   },
   "devDependencies": {
-    "gulp-debug": "^3.2.0"
+    "gulp-debug": "3.2.0"
   }
 }
