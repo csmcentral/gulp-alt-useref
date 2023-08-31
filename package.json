@@ -1,24 +1,21 @@
 {
-  "name": "@slcpub/gulp-alt-useref",
-  "description": "Alternative to gulp-useref.",
+  "name": "@csmcentral/gulp-alt-useref",
+  "description": "This is a fork of @slcpub/gulp-alt-useref - Alternative to gulp-useref.",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/softlife/gulp-alt-useref.git"
+    "url": "https://github.com/csmcentral/gulp-alt-useref.git"
   },
-  "homepage": "https://github.com/softlife/gulp-alt-useref#readme",
+  "homepage": "https://github.com/csmcentral/gulp-alt-useref#readme",
   "main": "index.js",
   "dependencies": {
-    "gulp-concat": "^2.6.0",
-    "q": "^1.4.1",
-    "through2": "^3.0.1",
-    "useref": "^1.4.1",
-    "vinyl-fs": "^3.0.2"
+    "gulp-concat": "2.6.1",
+    "q": "1.5.1",
+    "through2": "3.0.2",
+    "useref": "1.4.4",
+    "vinyl-fs": "3.0.3"
   },
   "devDependencies": {
-    "gulp-debug": "^3.2.0"
-  },
-  "publishConfig": {
-    "@slcpub:registry": "https://gitlab.com/api/v4/projects/34256364/packages/npm/"
+    "gulp-debug": "3.2.0"
   }
 }
